@@ -2472,30 +2472,30 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #39a4f7;
-  border-color: #39a4f7;
+  background-color: #3dcad4;
+  border-color: #3dcad4;
   padding: 0.8rem 3rem;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #39a4f7;
-  border-color: #39a4f7;
+  background-color: #3dcad4;
+  border-color: #3dcad4;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
-  background-color: #39a4f7;
-  border-color: #39a4f7;
+  background-color: #3dcad4;
+  border-color: #3dcad4;
   box-shadow: 0 0 0 0.2rem rgba(246, 122, 88, 0.5);
 }
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
-  background-color: #39a4f7;
-  border-color: #39a4f7;
+  background-color: #3dcad4;
+  border-color: #3dcad4;
 }
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #39a4f7;
-  border-color: #39a4f7;
+  background-color: #3dcad4;
+  border-color: #3dcad4;
 }
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus, .show > .btn-primary.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(246, 122, 88, 0.5);
@@ -4707,7 +4707,7 @@ a.badge:hover, a.badge:focus {
 
 .badge-primary {
   color: #fff;
-  background-color: #39a4f7;
+  background-color: #3dcad4;
 }
 a.badge-primary:hover, a.badge-primary:focus {
   color: #fff;
@@ -9800,7 +9800,7 @@ button.bg-dark:focus {
 
 .text-primary {
   /*color: #f4623a !important;*/
-  color:#38A5FF !important
+  color:#3dcad4 !important
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10014,7 +10014,7 @@ hr.divider-header{
 hr.divider {
   max-width: 8.25rem;
   border-width: 0.15rem;
-  border-color: #38A5FF;
+  border-color: #3dcad4;
   /*border-color: #ffffff;*/
 }
 
@@ -10073,10 +10073,10 @@ hr.light {
   padding: 0.75rem 0;
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: #39a4f7;
+  color: #3dcad4;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #39a4f7 !important;
+  color: #3dcad4 !important;
 }
 @media (min-width: 992px) {
   #mainNav {
@@ -10107,13 +10107,13 @@ hr.light {
     color: #6c757d;
   }
   #mainNav.navbar-scrolled .navbar-brand:hover {
-    color: #39a4f7;
+    color: #3dcad4;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
     color: #6c757d;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
-    color: #39a4f7;
+    color: #3dcad4;
   }
 }
 
@@ -10198,7 +10198,7 @@ header.masthead h1 {
 
 #portfolio .project-details h3{
   font-size: 32px;
-  border-left: 4px solid #39a4f7;
+  border-left: 4px solid #3dcad4;
   padding-left: 10px;
   font-weight: 600;
 }
